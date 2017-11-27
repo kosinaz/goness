@@ -1,9 +1,10 @@
 # GONESS
 Goness is an endless runner game, in which you are the only captive of the mysterious Garden of Never Ending Sunset, who can't remember how and when she got there, but decides to leave once and for all.
 
-The game is monologue-driven and starts with the realization that everyone who stayed in the garden has slowly turned into statue. The player's goal is to leave before that happens by deliberately not looking at things that could catch her attention and make her stop. To do this the player has to constantly change where she looks, up or down.
+The game is monologue-driven and starts with the realization that everyone who stayed in the garden has slowly turned into a statue. The player's goal is to leave before that happens by deliberately not looking at things that could catch her attention and make her stop. To do this the player has to constantly change where she looks, up or down.
 
-Art style
+## Art style
+
 Nothing moves in the game, only fades out and fades in in a new position. The playing area is a silhouette with a lighter parallax background and a completely black parallax foreground.
 
 http://www.2dgameartguru.com/2011/10/staying-in-shape-clip-tool.html
